@@ -1,0 +1,87 @@
+D:\Производственная практика\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Производственная практика\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Производственная практика\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Производственная практика\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\Производственная практика\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Производственная практика\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Производственная практика\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Производственная практика\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Производственная практика\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Производственная практика\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Производственная практика\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+D:\Производственная практика\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+D:\Производственная практика\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Zstandard.Net.dll
+D:\Производственная практика\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Производственная практика\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BouncyCastle.Crypto.dll
+D:\Производственная практика\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Ubiety.Dns.Core.dll
+D:\Производственная практика\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Renci.SshNet.dll
+D:\Производственная практика\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+D:\Производственная практика\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.dll
+D:\Производственная практика\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.dll
+D:\Производственная практика\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+D:\Производственная практика\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Производственная практика\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+D:\Производственная практика\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+D:\Производственная практика\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+D:\Производственная практика\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\Производственная практика\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.IssueOfNumbers.resources
+D:\Производственная практика\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ManageClient.resources
+D:\Производственная практика\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ManageRoom.resources
+D:\Производственная практика\Учет гостиничных номеров\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Производственная практика\Учет гостиничных номеров\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Производственная практика\Учет гостиничных номеров\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Производственная практика\Учет гостиничных номеров\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+D:\Производственная практика\Учет гостиничных номеров\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+D:\Производственная практика\Учет гостиничных номеров\WindowsFormsApp1\bin\Debug\Zstandard.Net.dll
+D:\Производственная практика\Учет гостиничных номеров\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Производственная практика\Учет гостиничных номеров\WindowsFormsApp1\bin\Debug\BouncyCastle.Crypto.dll
+D:\Производственная практика\Учет гостиничных номеров\WindowsFormsApp1\bin\Debug\Ubiety.Dns.Core.dll
+D:\Производственная практика\Учет гостиничных номеров\WindowsFormsApp1\bin\Debug\Renci.SshNet.dll
+D:\Производственная практика\Учет гостиничных номеров\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+D:\Производственная практика\Учет гостиничных номеров\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.dll
+D:\Производственная практика\Учет гостиничных номеров\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.dll
+D:\Производственная практика\Учет гостиничных номеров\WindowsFormsApp1\bin\Debug\System.Memory.dll
+D:\Производственная практика\Учет гостиничных номеров\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Производственная практика\Учет гостиничных номеров\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+D:\Производственная практика\Учет гостиничных номеров\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+D:\Производственная практика\Учет гостиничных номеров\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\Производственная практика\Учет гостиничных номеров\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+D:\Производственная практика\Учет гостиничных номеров\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Производственная практика\Учет гостиничных номеров\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.IssueOfNumbers.resources
+D:\Производственная практика\Учет гостиничных номеров\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ManageClient.resources
+D:\Производственная практика\Учет гостиничных номеров\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ManageRoom.resources
+D:\Производственная практика\Учет гостиничных номеров\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Производственная практика\Учет гостиничных номеров\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Производственная практика\Учет гостиничных номеров\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Производственная практика\Учет гостиничных номеров\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\Производственная практика\Учет гостиничных номеров\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Производственная практика\Учет гостиничных номеров\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Учеба\Производственная практика\Учет гостиничных номеров\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Учеба\Производственная практика\Учет гостиничных номеров\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Учеба\Производственная практика\Учет гостиничных номеров\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Учеба\Производственная практика\Учет гостиничных номеров\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+D:\Учеба\Производственная практика\Учет гостиничных номеров\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+D:\Учеба\Производственная практика\Учет гостиничных номеров\WindowsFormsApp1\bin\Debug\Zstandard.Net.dll
+D:\Учеба\Производственная практика\Учет гостиничных номеров\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Учеба\Производственная практика\Учет гостиничных номеров\WindowsFormsApp1\bin\Debug\BouncyCastle.Crypto.dll
+D:\Учеба\Производственная практика\Учет гостиничных номеров\WindowsFormsApp1\bin\Debug\Ubiety.Dns.Core.dll
+D:\Учеба\Производственная практика\Учет гостиничных номеров\WindowsFormsApp1\bin\Debug\Renci.SshNet.dll
+D:\Учеба\Производственная практика\Учет гостиничных номеров\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+D:\Учеба\Производственная практика\Учет гостиничных номеров\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.dll
+D:\Учеба\Производственная практика\Учет гостиничных номеров\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.dll
+D:\Учеба\Производственная практика\Учет гостиничных номеров\WindowsFormsApp1\bin\Debug\System.Memory.dll
+D:\Учеба\Производственная практика\Учет гостиничных номеров\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Учеба\Производственная практика\Учет гостиничных номеров\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+D:\Учеба\Производственная практика\Учет гостиничных номеров\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+D:\Учеба\Производственная практика\Учет гостиничных номеров\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\Учеба\Производственная практика\Учет гостиничных номеров\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+D:\Учеба\Производственная практика\Учет гостиничных номеров\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Учеба\Производственная практика\Учет гостиничных номеров\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.IssueOfNumbers.resources
+D:\Учеба\Производственная практика\Учет гостиничных номеров\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ManageClient.resources
+D:\Учеба\Производственная практика\Учет гостиничных номеров\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ManageRoom.resources
+D:\Учеба\Производственная практика\Учет гостиничных номеров\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Учеба\Производственная практика\Учет гостиничных номеров\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Учеба\Производственная практика\Учет гостиничных номеров\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Учеба\Производственная практика\Учет гостиничных номеров\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\Учеба\Производственная практика\Учет гостиничных номеров\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Учеба\Производственная практика\Учет гостиничных номеров\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
